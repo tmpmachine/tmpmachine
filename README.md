@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you're looking for TMPmachine code editor, go to this link : https://github.com/tmpmachine/tmp-code-editor.
+I'm currently working on Codetmp. Lightweight online IDE for static web sandboxing (HTML, CSS, JS).
 
 
 <!--
