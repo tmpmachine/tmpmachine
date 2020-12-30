@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I'm currently working on Codetmp. Lightweight online IDE for static web sandboxing (HTML, CSS, JS).
-
-
 <!--
 **tmpmachine/tmpmachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
