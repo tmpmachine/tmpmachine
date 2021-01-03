@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Bill Yosafat. Thank you for checking out my repo.
 
 <!--
 **tmpmachine/tmpmachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
