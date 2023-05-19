@@ -1,7 +1,4 @@
-### Find me on YouTube
 
-- Music (guitar) : https://www.youtube.com/@tmpcafe
-- Vanilla JS development : https://www.youtube.com/@vanillajsdev
 
 <!--
 **tmpmachine/tmpmachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
